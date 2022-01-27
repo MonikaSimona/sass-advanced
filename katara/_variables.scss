@@ -1,0 +1,33 @@
+$primary: #f5eded;
+$secondary: #3e3636;
+$accent: #740303;
+$error: rgb(228, 68, 39);
+$text: #333333;
+
+$colors: (
+    "primary": $primary,
+    "scondary": $secondary,
+    "accent": $accent,
+    "text": $text,
+    "blue": rgb(39, 139, 253),
+    "green": rgb(112, 204, 76),
+    "yellow": rgb(255, 255, 108),
+    "orange": rgb(250, 189, 76),
+    "pink": pink,
+    "purple": rgb(202, 74, 202),
+    "gray": rgb(165, 165, 165),
+    "white": white,
+    "black": black,
+);
+
+$base-padding: 10px;
+
+$base-border-radius: 10px;
+
+$base-box-shadow: 1px 1px 5px rgba(41, 41, 41, 0.24);
+
+$base-font-size: 1rem;
+$font-size-sm: $base-font-size * 0.75;
+$font-size-lg: $base-font-size * 1.5;
+$font-size-xl: $base-font-size * 2;
+$font-size-xxl: $base-font-size * 3;
